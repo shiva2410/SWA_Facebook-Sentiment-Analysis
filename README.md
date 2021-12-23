@@ -2,7 +2,7 @@
 Sentiment Analysis of Facebook Posts &amp; Comments - SWA Project
 Project is created by - :
 1. Shiva Thavani - 401703025
-2. Kritika Ahuja -
+2. Kritika Ahuja - 401703011
 3. Saksham Gupta -
 
 Technology Stack -
