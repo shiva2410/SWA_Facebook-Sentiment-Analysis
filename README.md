@@ -5,4 +5,4 @@ Project is created by - :
 2. Kritika Ahuja -
 3. Saksham Gupta -
 
-This project was created for Social & Web Analytics subject for ODD Semester of 2021-22 at Thapar University, Patiala, Punjab
+This project was created for Social & Web Analytics subject for ODD Semester of 2021-22 at Thapar University, Patiala, Punjab.
