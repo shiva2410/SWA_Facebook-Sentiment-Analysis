@@ -1,5 +1,5 @@
 # SWA_Facebook-Sentiment-Analysis
-Sentiment Analysis of Facebook Posts &amp; Comments - SWA Project
+Sentiment Analysis of Facebook Posts &amp; Comments - SWA Project.
 
 Project is created by - :
 1. Shiva Thavani - 401703025
